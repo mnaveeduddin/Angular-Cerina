@@ -1,0 +1,21 @@
+.fourth{
+    background-color: #E0DDAA;
+    padding-top: 5%;
+}
+
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.comment-box{
+    justify-content: space-evenly;
+}
+.comment-content{
+    width: 40%;
+    line-height: 10%;
+}
+.address{
+    display: flex;
+    align-items: center;
+}
